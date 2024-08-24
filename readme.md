@@ -1,5 +1,5 @@
 # Video Tutorial
-[![Watch the video](https://i3.ytimg.com/vi/FFcawJA9fcs/maxresdefault.jpg)](https://www.youtube.com/watch?v=FFcawJA9fcs)
+[![Watch the video](https://img.youtube.com/vi/FFcawJA9fcs/0.jpg)](https://www.youtube.com/watch?v=FFcawJA9fcs)
 # 1. Clone the repository
 ```
 git clone https://github.com/Priyanshu-hawk/Mongo-Tuto.git
